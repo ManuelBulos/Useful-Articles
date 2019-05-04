@@ -17,5 +17,5 @@ A list of development-related articles that I find helpful.
  - [Flawless App](https://flawlessapp.io/?banner)
  
  ## Git
- - [Persist specific file on each branch while merging](https://medium.com/@porteneuve/how-to-make-git-preserve-specific-files-while-merging-18c92343826b)
+ - [Persist specific files on each branch while merging](https://medium.com/@porteneuve/how-to-make-git-preserve-specific-files-while-merging-18c92343826b)
  - [Rename branch](https://stackabuse.com/git-rename-a-local-and-remote-branch/)
