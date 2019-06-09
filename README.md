@@ -10,6 +10,9 @@ A list of development-related articles that I find helpful.
   - [Permissions](https://hackernoon.com/swift-access-ios-camera-and-photo-library-dc1dbe0cdd76)
   - [Localization](https://medium.com/lean-localization/ios-localization-tutorial-938231f9f881)
   - [Common Regex](https://digitalfortress.tech/tricks/top-15-commonly-used-regex/)
+  
+  #### Knowledge
+  - [weak and unowned self, great examples.](https://stackoverflow.com/questions/24320347/shall-we-always-use-unowned-self-inside-closure-in-swift/46944211#46944211)
 
   #### General
   - [Material icons](https://material.io/develop/ios/)
