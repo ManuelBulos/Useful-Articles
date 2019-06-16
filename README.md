@@ -4,6 +4,7 @@ A list of development-related articles that I find helpful.
 ## iOS
 
   #### Practical applications
+  - [JSON Models to Swift Files](https://www.json4swift.com)
   - [Futures and Promises](https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift)
   - [Functional Networking](https://www.swiftbysundell.com/posts/functional-networking-in-swift)
   - [File Manager](https://medium.com/if-let-swift-programming/managing-files-in-ios-dfcdfdc1f426)
